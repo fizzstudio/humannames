@@ -1,4 +1,4 @@
-{
+export default {
  "A": 1,
  "A'isha": 1,
  "A-jay": 1,
