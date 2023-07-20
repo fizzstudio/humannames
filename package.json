@@ -16,6 +16,9 @@
     "test": "test"
   },
   "scripts": {
+    "pubpatch": "npm version patch && npm publish",
+    "pubminor": "npm version minor && npm publish",
+    "pubmajor": "npm version major && npm publish"
   },
   "repository": {
     "type": "git",
