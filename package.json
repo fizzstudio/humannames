@@ -1,6 +1,6 @@
 {
   "name": "@fizz/humannames",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A list, huge one (~200K) of human male/female first/last names.",
   "publishConfig": {
     "access": "restricted",
@@ -41,6 +41,5 @@
     "url": "https://github.com/fizzstudio/humannames/issues"
   },
   "homepage": "https://github.com/fizzstudio/humannames#readme",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
